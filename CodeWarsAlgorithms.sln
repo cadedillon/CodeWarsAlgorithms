@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsAlgorithms", "CodeWarsAlgorithms\CodeWarsAlgorithms.csproj", "{B170E996-7ED6-490C-8AC4-A803160BA84F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsAlgorithmsTests", "CodeWarsAlgorithmsTests\CodeWarsAlgorithmsTests.csproj", "{8250F7D0-D5AA-459B-B32F-7DEB1EAFB3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B170E996-7ED6-490C-8AC4-A803160BA84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B170E996-7ED6-490C-8AC4-A803160BA84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B170E996-7ED6-490C-8AC4-A803160BA84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B170E996-7ED6-490C-8AC4-A803160BA84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8250F7D0-D5AA-459B-B32F-7DEB1EAFB3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8250F7D0-D5AA-459B-B32F-7DEB1EAFB3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8250F7D0-D5AA-459B-B32F-7DEB1EAFB3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8250F7D0-D5AA-459B-B32F-7DEB1EAFB3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD3EB3BC-8105-42F6-B3E0-5F10443C1562}
+	EndGlobalSection
+EndGlobal
